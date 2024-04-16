@@ -254,6 +254,7 @@ document.getElementById('next').addEventListener('click',()=>{
 })
 
 // search 
+console.log(songItems)
 
 searchInput.addEventListener("input",(e)=>{
     const value = e.target.value.toLowerCase()
