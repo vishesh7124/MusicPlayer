@@ -15,7 +15,7 @@ let songs =[
     {songName: "Homicide", filePath: "./songs/Homicide.mp3",coverPath: "./covers/cover3.jpg"},
     {songName: "Satisfy", filePath: "./songs/Satisfy.mp3",coverPath: "./covers/cover4.jpg"},
     {songName: "Levels", filePath: "./songs/Levels.mp3",coverPath: "./covers/cover5.jpeg"},
-    {songName: "Game Over", filePath: "./songs/GameOver.mp3",coverPath: "./covers/cover6.jpg"},
+    {songName: "Arcade", filePath: "./songs/Arcade.mp3",coverPath: "./covers/cover6.jpg"},
     {songName: "OG", filePath: "./songs/OG.mp3",coverPath: "./covers/cover7.png"},
 ];
 const searchInput = document.querySelector('[data-search]')
